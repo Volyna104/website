@@ -1,0 +1,26 @@
+baseurl: megawebsitevolyna104.netlify.app
+languageCode: en-us
+title: Spectre Pixel Theme
+theme: hugo-spectre-pixel-theme
+googleAnalytics: ''
+params:
+  aboutAuthor: Студент-программист.
+  altName: Volyna
+  bio: Студент & Программист
+  copyright: ''
+  customCSS: https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css
+  customJS: []
+  description: Describe your website
+  enableRSS: yes
+  home: ''
+  name: Волынкин С.А.
+  newerPosts: ''
+  olderPosts: ''
+  subscribe: ''
+  subtitle404: ''
+  title404: ''
+social:
+  email: ctepanvolinkin@gmail.com
+  github: https://www.github.com/
+taxonomies:
+  tag: tags
